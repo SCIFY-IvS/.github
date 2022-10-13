@@ -1,6 +1,6 @@
 # SCIFY
 
-SCIFY stands foro Self Calibrating Interferometry for exoplanet spectroscopY.
+SCIFY stands for Self Calibrating Interferometry for exoplanet spectroscopY.
 
 ## SCIFYsim
 
