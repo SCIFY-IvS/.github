@@ -11,9 +11,12 @@ SCIFYsim is an end-to-end simulator designed to reproduce the behaviour of inter
 
 It is used to simulate the performance of the Asgard/NOTT (formerly Hi-5) instrument, and can be used to simulate kernel-nulling instruments.
 
-## Charge-accelerometer-equivalent-noise
+## GRAVITY+ Vibration control
 
-Code to compute the equivalent noise of charge accelerometers
-* Github repository: [Manhattan2](https://github.com/AzzurraB-rr/Charge-accelerometer-equivalent-noise)
+* Code to compute the *equivalent noise of charge accelerometers*
+  - Github repository: [Manhattan2](https://github.com/AzzurraB-rr/Charge-accelerometer-equivalent-noise)
 
+## Pytac
 
+pytac is a python library to work with ESO Tools for Advanced Control (TAC)
+  * Github repository: [pytac](https://github.com/rlaugier/pytac)
