@@ -13,10 +13,10 @@ It is used to simulate the performance of the Asgard/NOTT (formerly Hi-5) instru
 
 ## Nulling data reduction
 * Full LBTI pipeline
-  - Github repository: [nodrs]([https://github.com/rlaugier/pytac](https://github.com/ddefrere/nodrs))
+  - Github repository: [nodrs](https://github.com/ddefrere/nodrs)
 
 * Generic data reduction pipeline
- - Github repository: [grip-nulling]([https://github.com/rlaugier/pytac](https://github.com/ddefrere/grip-nulling))
+ - Github repository: [grip-nulling](https://github.com/ddefrere/grip-nulling)
 
 ## GRAVITY+ Vibration control
 * pytac is a python library to work with ESO Tools for Advanced Control (TAC)
