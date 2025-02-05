@@ -11,12 +11,20 @@ SCIFYsim is an end-to-end simulator designed to reproduce the behaviour of inter
 
 It is used to simulate the performance of the Asgard/NOTT (formerly Hi-5) instrument, and can be used to simulate kernel-nulling instruments.
 
-## GRAVITY+ Vibration control
+## Nulling data reduction
+* Full LBTI pipeline
+  - Github repository: [nodrs]([https://github.com/rlaugier/pytac](https://github.com/ddefrere/nodrs))
 
+* Generic data reduction pipeline
+ - Github repository: [grip-nulling]([https://github.com/rlaugier/pytac](https://github.com/ddefrere/grip-nulling))
+
+## GRAVITY+ Vibration control
+* pytac is a python library to work with ESO Tools for Advanced Control (TAC)
+  - Github repository: [pytac](https://github.com/rlaugier/pytac)
+ 
 * Code to compute the *equivalent noise of charge accelerometers*
   - Github repository: [Manhattan2](https://github.com/AzzurraB-rr/Charge-accelerometer-equivalent-noise)
 
-## Pytac
 
-pytac is a python library to work with ESO Tools for Advanced Control (TAC)
-  * Github repository: [pytac](https://github.com/rlaugier/pytac)
+
+
