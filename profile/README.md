@@ -17,7 +17,7 @@ It is used to simulate the performance of the Asgard/NOTT (formerly Hi-5) instru
 * Nulling Interferometric data standard: [nifits](https://github.com/ddefrere/nifits)
 
 ## NOTT observing preparation tool
-* (https://github.com/ddefrere/nodrs)
+* Tool to prepare observations with NOTT ([NOTT observing tool](https://github.com/SCIFY-IvS/NOTT-observation-preparation-tool))
 
 ## GRAVITY+ Vibration control and mitigation
 * pytac is a python library to work with ESO Tools for Advanced Control (TAC): [pytac](https://github.com/rlaugier/pytac) 
