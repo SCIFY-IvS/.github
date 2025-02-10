@@ -16,6 +16,9 @@ It is used to simulate the performance of the Asgard/NOTT (formerly Hi-5) instru
 * Generic nulling data reduction pipeline: [grip-nulling](https://github.com/ddefrere/grip-nulling) [documentation](https://mamartinod.github.io/grip-nulling/)
 * Nulling Interferometric data standard: [nifits](https://github.com/ddefrere/nifits)
 
+## NOTT observing preparation tool
+* (https://github.com/ddefrere/nodrs)
+
 ## GRAVITY+ Vibration control and mitigation
 * pytac is a python library to work with ESO Tools for Advanced Control (TAC): [pytac](https://github.com/rlaugier/pytac) 
 * Code to compute the *equivalent noise of charge accelerometers: [Manhattan2](https://github.com/AzzurraB-rr/Charge-accelerometer-equivalent-noise)
